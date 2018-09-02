@@ -1,0 +1,31 @@
+@relation 'final-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.instance.RemoveWithValues-S110.0-C1-Lfirst-last-weka.filters.unsupervised.instance.RemoveWithValues-S218.0-C1-Lfirst-last-V-weka.filters.unsupervised.instance.RemoveWithValues-S110.0-C1-Lfirst-last-weka.filters.unsupervised.instance.RemoveWithValues-S110.0-C1-Lfirst-last-weka.filters.unsupervised.instance.RemoveWithValues-S111.0-C1-Lfirst-last-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.NumericToNominal-Rlast-weka.filters.unsupervised.attribute.MergeManyValues-Clast-Lfail-R1,2,3-weka.filters.unsupervised.attribute.MergeManyValues-Clast-Lpass-R1-5'
+
+@attribute n_assignment numeric
+@attribute n_assignment_a numeric
+@attribute n_assignment_s numeric
+@attribute n_messages numeric
+@attribute n_posts numeric
+@attribute n_read numeric
+@attribute n_quiz numeric
+@attribute n_quiz_a numeric
+@attribute n_quiz_s numeric
+@attribute n_messages_ap numeric
+@attribute total_time_assignment numeric
+@attribute total_time_quiz numeric
+@attribute total_time_forum numeric
+@attribute nota {fail,pass}
+
+@data
+13,0,13,0,3,0,0,0,0,0,7243,0,1723,fail
+13,0,13,0,4,0,0,0,0,0,3336,0,3394,pass
+0,0,0,0,0,0,0,0,0,0,283,0,1402,fail
+13,0,13,0,7,0,0,0,0,0,1241,0,3413,pass
+13,0,13,0,6,0,0,0,0,0,4730,0,3157,pass
+13,0,13,0,5,0,0,0,0,0,1619,0,4774,pass
+13,0,13,0,8,0,0,0,0,0,1655,0,6033,pass
+9,0,9,0,8,0,0,0,0,0,732,0,2035,pass
+13,0,13,0,7,0,0,0,0,0,1624,0,0,pass
+13,0,13,0,7,0,0,0,0,0,1438,0,2239,fail
+6,0,6,0,6,0,0,0,0,0,1928,0,1691,fail
+10,0,10,0,2,0,0,0,0,0,842,0,2670,pass
+13,0,13,0,4,0,0,0,0,0,2069,0,1221,fail
